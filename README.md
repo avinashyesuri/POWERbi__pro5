@@ -69,6 +69,7 @@ Weather_Conditions- Describes the prevailing weather conditions at the time of t
 
 Vehicle_Type- Represents the type of vehicle involved in the accident, such as car, motorcycle, bicycle, or commercial truck.
 
+
 ![Capture-po2](https://github.com/user-attachments/assets/3f8e76cf-48dd-4fff-9ec5-5aaaca535a15)
 https://drive.google.com/file/d/1iMwcZDccTEhHXBENG1c-Zwl8EWtcPYIK/view?usp=sharing 
 
