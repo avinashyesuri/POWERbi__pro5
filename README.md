@@ -79,7 +79,7 @@ Weather_Conditions- Describes the prevailing weather conditions at the time of t
 Vehicle_Type- Represents the type of vehicle involved in the accident, such as car, motorcycle, bicycle, or commercial truck.
 
 
-
+in this project wew work with the uk traffice volume and accidents full view. 
 
 
 
